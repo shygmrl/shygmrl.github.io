@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shygmrl.wbuyy.com/shygmrl.txt
